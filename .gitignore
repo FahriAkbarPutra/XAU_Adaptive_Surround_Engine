@@ -1,0 +1,4 @@
+# MQL5 ignored files
+*.ex5
+*.log
+*.set
