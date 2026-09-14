@@ -43,3 +43,7 @@ All distance parameters are measured in **Points** (10 Points = 1 Pip) for maxim
 Trading financial markets involves a high degree of risk. This Expert Advisor is provided for educational and experimental purposes only. Always test thoroughly on a Demo account before deploying real capital. The developer is not responsible for any financial losses incurred.
 "# XAU_Adaptive_Surround_Engine" 
 "# XAU_Adaptive_Surround_Engine" 
+
+## 📈 1 Month Backtesting Report
+This not a real simulation on real chart , this simulation from meta trader 5 , basicly it gonna looks similar but on meta trader no noise price like on real chart
+[ReportTester-800203301.xlsx](https://github.com/user-attachments/files/32202549/ReportTester-800203301.xlsx)
