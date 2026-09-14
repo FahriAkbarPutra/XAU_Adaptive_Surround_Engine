@@ -46,4 +46,5 @@ Trading financial markets involves a high degree of risk. This Expert Advisor is
 
 ## 📈 1 Month Backtesting Report
 This not a real simulation on real chart , this simulation from meta trader 5 , basicly it gonna looks similar but on meta trader no noise price like on real chart
+
 [ReportTester-800203301.xlsx](https://github.com/user-attachments/files/32202549/ReportTester-800203301.xlsx)
